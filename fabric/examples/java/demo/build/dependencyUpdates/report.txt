@@ -1,0 +1,12 @@
+
+------------------------------------------------------------
+: Project Dependency Updates (report to plain text file)
+------------------------------------------------------------
+
+The following dependencies are using the latest release version:
+ - com.github.ben-manes.versions:com.github.ben-manes.versions.gradle.plugin:0.20.0
+ - junit:junit:4.12
+ - org.hyperledger.fabric-sdk-java:fabric-sdk-java:1.2.1
+
+Gradle updates:
+ - Gradle: [4.10.1: UP-TO-DATE]
